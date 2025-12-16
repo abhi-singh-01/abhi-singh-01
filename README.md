@@ -1,61 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Abhijeet Singh</h1>
-<h3 align="center">Full-Stack & Java Backend Developer</h3>
+## About Me
 
-<p align="center">
-  🎓 MCA (2025) · KIET Ghaziabad &nbsp; | &nbsp; BCA · SMS Varanasi  
-</p>
+Hi, I'm Abhijeet Singh 👋
 
-<p align="center">
-  🌐 <a href="https://ajswork.space" target="_blank"><b>Portfolio</b></a> • 
-  💼 <a href="https://www.linkedin.com/in/abhijeetsingh16/" target="_blank"><b>LinkedIn</b></a> • 
-  🐦 <a href="https://x.com/MrabhiRajput1" target="_blank"><b>X (Twitter)</b></a>
-</p>
+Full-Stack & Java Backend Developer  
+MCA student at KIET Ghaziabad | BCA from SMS Varanasi
 
----
+I build scalable web applications using Spring Boot and Node.js. Passionate about backend systems, clean architecture, and continuous learning.
 
-## 🚀 About Me
+## My Skills
 
-- 💻 I build **scalable web applications** using **Java, Spring Boot, Node.js**
-- 🧠 Strong focus on **backend systems, clean architecture, and performance**
-- 🔁 Believe in **continuous learning** and real-world problem solving
-- 🌱 Actively improving skills in **system design & production-ready APIs**
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
 
----
+## GitHub Stats
 
-## 🛠️ Tech Stack
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=abhi-singh-01&theme=dark&show_icons=true&count_private=true">
 
-**Languages:** Java, JavaScript, SQL, C  
-**Backend:** Spring Boot, Node.js, Express  
-**Frontend:** React, HTML, CSS, Tailwind CSS  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, VS Code
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=abhi-singh-01&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=abhi-singh-01&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
----
+## Connect with me
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-singh-01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  🏆 <b>Public Repositories:</b> 13 &nbsp; • &nbsp;
-  👥 <b>Followers:</b> 0 &nbsp; • &nbsp;
-  🔗 <b>Following:</b> 4
-</p>
-
----
-
-## 🔥 Recent Activity
-
-- 🚀 Pushed updates to <a href="https://github.com/abhi-singh-01/E-Complaint">E-Complaint</a> — <b>Dec 16, 2025</b>  
-- 🌦️ Enhanced <a href="https://github.com/abhi-singh-01/weather-app">Weather App</a> with new features — <b>Dec 16, 2025</b>  
-- 🛠️ Continuously refining projects by fixing issues and adding improvements
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/abhijeetsingh16/  
-- 🐦 X (Twitter): https://x.com/MrabhiRajput1  
-- 🌐 Portfolio: https://ajswork.space
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/abhijeetsingh16/" target="_blank">Abhijeet Singh</a> Email: mrabhirajput5@gmail.com</p>
