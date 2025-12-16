@@ -3,7 +3,6 @@
 Hi, I'm Abhijeet Singh 👋
 
 Full-Stack & Java Backend Developer  
-MCA student at KIET Ghaziabad | BCA from SMS Varanasi
 
 I build scalable web applications using Spring Boot and Node.js. Passionate about backend systems, clean architecture, and continuous learning.
 
